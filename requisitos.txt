@@ -1,0 +1,10 @@
+ao clicar no gênero, mostrar os detalhes, mostrar os filmes do gênero
+para funções técnicas, mesma coisa
+nos detalhes do filme, ao passar o mouse/clicar na função técnica, mostrar um popup mostrando as descrições da função
+
+
+navegar nos filmes de um gênero
+
+navegar nas pessoas pela função técnica
+
+popup/modal com a descrição da função técnica nos detalhes de filme e pessoa
